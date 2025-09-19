@@ -1,0 +1,40 @@
+================================================================================
+AWS S3 COST ESTIMATION REPORT
+================================================================================
+Generated on: 2025-09-19 15:37:19
+AWS Region: us-east-1
+Total buckets analyzed: 4
+
+BUCKETS IN SCOPE:
+--------------------
+ 1. 1680b1ae3eb6-nyc-taxi
+ 2. srivinaya-bucket
+ 3. vinay-pythons3
+ 4. vpc-01-flowlog-vinay
+
+COST SUMMARY BY PERIOD
+-------------------------
+Period       Total Cost (USD)   Date Range               
+------------------------------------------------------------
+Day          $0.00              N/A
+Week         $0.00              N/A
+Month        $0.00              N/A
+Quarter      $0.00              N/A
+Year         $0.00              N/A
+
+DETAILED BREAKDOWN - DAY
+----------------------------------------
+DETAILED BREAKDOWN - WEEK
+----------------------------------------
+DETAILED BREAKDOWN - MONTH
+----------------------------------------
+DETAILED BREAKDOWN - QUARTER
+----------------------------------------
+DETAILED BREAKDOWN - YEAR
+----------------------------------------
+================================================================================
+NOTE: Cost data is retrieved from AWS Cost Explorer API.
+Costs may include storage, requests, and data transfer charges.
+Detailed bucket-level breakdown depends on AWS Cost Explorer
+configuration and may show aggregated costs.
+================================================================================
