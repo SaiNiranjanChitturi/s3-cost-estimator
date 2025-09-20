@@ -148,7 +148,7 @@ if __name__ == "__main__":
         exit(1)
     
     # Step 3: Try to access the specified bucket
-    bucket = "srivinaya-bucket"
+    bucket = "veerbucket9"
     prefix = ""  # set if you want to filter by folder path
     
     print(f"\n🎯 Target bucket: '{bucket}'")
