@@ -1,0 +1,43 @@
+================================================================================
+AWS S3 COST ESTIMATION REPORT
+================================================================================
+Generated (UTC): 2025-09-20 00:05:20
+AWS Region: us-east-1
+Buckets in scope (2):
+   1. veerbucket9
+   2. vpc-01-flowlog-veer
+
+COST SUMMARY BY PERIOD
+------------------------------------------------------------
+Period       Total Cost (USD)   Date Range                    
+------------------------------------------------------------
+Day          $0.00              2025-09-19 to 2025-09-20
+Week         $0.00              2025-09-13 to 2025-09-20
+Month        $0.00              2025-08-21 to 2025-09-20
+Quarter      $0.00              2025-06-22 to 2025-09-20
+Year         $0.00              2024-09-20 to 2025-09-20
+
+DETAILS — DAY  [2025-09-19 to 2025-09-20]
+------------------------------------------------------------
+  (No resource-level breakdown available. Enable CE resource granularity for S3.)
+
+DETAILS — WEEK  [2025-09-13 to 2025-09-20]
+------------------------------------------------------------
+  (No resource-level breakdown available. Enable CE resource granularity for S3.)
+
+DETAILS — MONTH  [2025-08-21 to 2025-09-20]
+------------------------------------------------------------
+  (No resource-level breakdown available. Enable CE resource granularity for S3.)
+
+DETAILS — QUARTER  [2025-06-22 to 2025-09-20]
+------------------------------------------------------------
+  (No resource-level breakdown available. Enable CE resource granularity for S3.)
+
+DETAILS — YEAR  [2024-09-20 to 2025-09-20]
+------------------------------------------------------------
+  (No resource-level breakdown available. Enable CE resource granularity for S3.)
+
+================================================================================
+Note: Costs come from AWS Cost Explorer and can include storage, requests,
+      and data transfer. Bucket mapping depends on CE configuration.
+================================================================================
